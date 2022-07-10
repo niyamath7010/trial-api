@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name": "Niyamathullah",
+        "age":23,
+        "email":"niyamathullah.khader@gmail.com",
+        "address":{
+            "house no": 2,
+            "street": "Dr. Ansari street 5th lane",
+            "area": "Pulianthope",
+            "city": "chennai"
+        },
+        "hobby": "love",
+        "wife":"Afreen Sultana"
+    },
+    {
+        "id": 2,
+        "name": "Afreen Sultana",
+        "age" : 21,
+        "email": "afreen.sultana@gmail.com",
+        "address":{
+            "house no":5,
+            "street":"Mohammed Hussain street",
+            "area":"Royapetta",
+            "city":"chennai"
+        },
+        "hobby" : "Neck Kiss",
+        "husbend": "Niyamathullah"
+    }
+]
